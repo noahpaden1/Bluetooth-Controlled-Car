@@ -1,0 +1,41 @@
+Project #4: 
+
+	- Name: Bluetooth Remote Control Car
+
+	- Purpose: To be able to gain competency in using Bluetooth modules and just be able to put something together that's cool
+
+	- Components: 2 Arduino Uno's, 2 USB cords to connect Arduino to PC, 1 potentiometers, 2 buttons, 5v external battery power source, normal 5v micro servo motor, 4 	  mini rubber wheels, hc05 Bluetooth module, bread board, jumper wires, micro RGB light, 3 220k ohm resistors.
+
+	- No Libraries used for source code
+ 
+	- CAD Platform: Onshape.com (free)
+
+
+
+Links To Parts:
+
+Arduino Uno (x2): https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_6?crid=36KYD48SCAHCC&dib=eyJ2IjoiMSJ9.BYv4v8UwoaywgWnj8bBEMCyL5OuMjBAr3eigI4Mv1F64rUGKFpThmduRSlujd-7iiSeQc1o4O_q76-VTtJovo3LHB72RltlIDXRMPnB75GxIm__m48yVR8GdlagIHZqh_MWyiUPqaPHIsT6hVJAta5Zb6erNy8Ykfn-CH4sgIlUMskKwSdszEOmGbKbYQsVLcVL8gFjjvw2gppln4Cgb2ShvWB9_wNqpduv4wdLOZkM.b6-D1BcRgSB-Eqxg302T1pXv74-WuYoryh4jWxv-2Wk&dib_tag=se&keywords=arduino+uno+with+cable&qid=1732923615&sprefix=arduino+uno+with+cable%2Caps%2C200&sr=8-6 
+
+Arduino Uno USB Cord (2 per order): https://www.amazon.com/DIYables-Cable-Arduino-Mega-Pieces/dp/B0BPFZNST2/ref=sr_1_3?crid=25NXXNTTA7M6U&dib=eyJ2IjoiMSJ9.BYv4v8UwoaywgWnj8bBEMCyL5OuMjBAr3eigI4Mv1F64rUGKFpThmduRSlujd-7iiSeQc1o4O_q76-VTtJovo3LHB72RltlIDXRMPnB75GxIm__m48yVR8GdlagIHZqh_MWyiUPqaPHIsT6hVJAta5Zb6erNy8Ykfn-CH4sgIlUMskKwSdszEOmGbKbYQsVLcVL8gFjjvw2gppln4Cgb2ShvWB9_wNqpduv4wdLOZkM.b6-D1BcRgSB-Eqxg302T1pXv74-WuYoryh4jWxv-2Wk&dib_tag=se&keywords=arduino+uno+with+cable&qid=1732923552&sprefix=arduino+uno+with+cabl%2Caps%2C136&sr=8-3 
+
+HC05 Bluetooth module (x2): https://www.amazon.com/HiLetgo-Bluetooth-Transceiver-Integrated-Communication/dp/B07VL725T8/ref=sr_1_2?crid=213A01I36WRK9&dib=eyJ2IjoiMSJ9.GVe7xTdQBd8ycP5WU8ZbiQa5ABtI2bM6FlQhDvE7qEduB4ZzLMIlsXHpfe5PpQyQnJ8XFDslZ8OWNuLou_gtPmnFNiMdwI4TqoQsi-9-NCzX0hW2gV5KssWGR07NAtvLp3YPqxt2_tJwb6ZLjEG79gcyHgvaV8tjOYudPfI7Y7qaRO_m8AAzpCik-qIr-xLqiF4TUwlaiX_PggxrKOzW0gSLBcslt-2jbC3KTRGAiLM.hRDeBS2R-7xdXfPBbDMRnq0SJRyToaLOP0jIwKAX_Tk&dib_tag=se&keywords=hc05&qid=1728953334&sprefix=hc05%2Caps%2C84&sr=8-2 
+
+Bread Board: https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/ref=sr_1_4_sspa?dib=eyJ2IjoiMSJ9.sZAPqz3gz06HtXY3ErMyNkSyJA3P2QZN9BQYJIgcjiR2RqfZyycEgk3-VH6-oyRtdLf1IVWYbCp8wFaqVVgDeID9sQseOQGO54ZekogLmUUh7Hn0ww6azMbLQjIwnNByYyjX4cmaDAofJvmoDiB5MVgfWXr64zGMFDapRS-A92cUj4R8Y7s2dbrT5o7XJDEeQZ7u0vHRytAdF1zgqumTSMFzfnGm9TU4XxoleP18fmIeFeIbHkroq5Eu3RNA0a-u9Gz1MsDaLRAjN1zpyJ3iw4jQnXN-73UvZnIuPAIaHOY.pw3o9F20I2cYOVfBvC7pgaxlzr-sqNvqUtSEpYXrKB0&dib_tag=se&keywords=bread+board&qid=1721189917&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 
+
+Car Body and Remote Controller: CADED & 3D printed it.
+
+All Wires: https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?crid=1LKCMKGOAJOI6&dib=eyJ2IjoiMSJ9.tjHxIQLJsk16_0YVtUGN6RsUwGC0o29pWmf1xI9df4pK9cUKWxCaEWLTAXt6HBIF08T_1X03MfZMpKz60-FwfVFkoWi_2-w3JZmatP0cE4xjJTHkHXlVOdXhFRVetfJor-m9-Lzi0PFqOm1zVwVKdGdJfAE2MUtITQScHjEX_0tJuS1TsaEuaZRx1zWYZF9xn_XbclLa7ZpBzIsp0Lnx1voekjhPl1MXJ43ztmqgBXo.frA_UEL4WsdR3nwhxlolq-sbwI5HAYLuIcyI6PiP-BI&dib_tag=se&keywords=male+female+wires&qid=1721189947&sprefix=male+female+wires%2Caps%2C87&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 
+
+External Battery Power Source (x3): https://www.amazon.com/TessellateStore-HighEfficiency-Rechargeable-Batteries-Chargers/dp/B0CFZHG3FT/ref=sr_1_3?crid=10UAATYQIBQ5M&dib=eyJ2IjoiMSJ9.upsW2GFSJc6o8mdKifcslQhpDKrTae25_8hawn5F0lUBpVXKnNROdLfqXedlk01KRQaPzhkeSmQ5EWBRZQlJC0Ze6atAoSqNwP0zcxduT4w5jAsqfVjNLBoXV9btoQk8PSw-RRBFysnGjRjmV1iyTQVrOuxcu8jLiJzj2koeiRYE6gUqKQ2rbiIxxun0pwBs-ll7HKzXWo4jUuWYbdx2vnXS2kuY9L9O_7am8VVlrItYdCtD1SgezpEBVxLZwRb0nbyT4ZaYgcWowJqFmTh8EcaMePTvVA3bQu5wYEkgSmw.tnqehTX3lfTh0sjx2Ko-EnqNrAKrgSMPCefOSBn49kQ&dib_tag=se&keywords=tessellatestore&qid=1724086194&sprefix=tessellatestore%2Caps%2C80&sr=8-3&th=1 
+
+Custom Wheels and DC Motors and L298N Drivers:
+https://www.amazon.com/KeeYees-Controller-Stepper-H-Bridge-Compatible/dp/B07ZT619TD/ref=mp_s_a_1_1?crid=17YFPXIAFA5E7&dib=eyJ2IjoiMSJ9.HsSHyooB5CdItGkcgP77AmFP6DU9BENlEyq7AWbMStQnW9FqSTpPeK8pwGB-kqQQ7j0BWDWrSIjQ4CvUJMyNdCK-FucOaXKlM2TuitlDWzTFeRXUlkBbkHJ0WmRA2qqh1H7gCD1dQYQB1U9UB-V-yb_xRs49e7tdMEV3iNOy_jrUn8Re0O2hLiXN75aX1tApgC4IBHCL0XYB7Az_VZQvCw.Zmr889-SU9G3e_XZYKazifi7V3MjHiIuLJgjmMs4W2Y&dib_tag=se&keywords=arduino+wheel+module&qid=1734654280&sprefix=areuino+wherl+module%2Caps%2C97&sr=8-1 
+
+Push Buttons:
+https://www.amazon.com/QTETAK-Momentary-Tactile-Button-Assortment/dp/B0BFWK5N8V/ref=mp_s_a_1_3?crid=2C21SZAKSRUUN&dib=eyJ2IjoiMSJ9.MuSeP-sQAoNFf0VJrlw-H6I1fL9KWe2_Q5Jsb6_Dwyo7-uw-_u4Kv1dzVcC64hZz1aY55JFdQ0kkXfmAUUbYuOdZEVdzfjlY6AuZEynkEHKeK7JCAkHQhr9SAg3OHD1ey3-N0MXLOMiJSW3x5hqVCuQAolI3Gmp-HfrFj0UrLBrRcTTJ26THKYVNWodZ4Q72HLje450yaqfcww5-bDne1Q.tyxq3Ewl7lYX5I5WdoOFeu01H1zXTsIwxOAdOl9QvLU&dib_tag=se&keywords=arduino+buttons+and+switches&qid=1734804342&sprefix=arduino+buttons%2Caps%2C91&sr=8-3 
+
+10k Ohm Resistors:
+https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW/ref=mp_s_a_1_2_sspa?crid=2LLIF58U7YUHX&dib=eyJ2IjoiMSJ9.6LwS_eL7GUDzrQTHCbHoUrXbUU6GcLf0Oh8KSANGZZdyFgJS8TQ4hj3vMMeqmyam5hgj3vO7mLyuNBITD-e02dqUO3kKQgs3n3lKAvRdWYrt7FttFUd6HW4NQrn5jUe3HcGPxXScKba-MrA200m2MqKBf-L7D957kmu0LRbzO-U1ikxB9XCjUzfzK4_jvFqAEOIWvdpB8kBdDPU8nVl_hA.kww5wq6HUHEUexZnLkkciQc-A75u_E9pTx2-b3lRO1o&dib_tag=se&keywords=10+k+ohm+resistor&qid=1735454944&sprefix=10+k+ohm+%2Caps%2C80&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1 
+
+Duck Tape:
+https://www.amazon.com/Original-Strength-Duck-Silver-394475/dp/B0000DH4ME/ref=sr_1_4?crid=6P0W51516H98&dib=eyJ2IjoiMSJ9.y-wrmvc414mGP5ZINxnSIIL3o8e1v0ucdviZLOC0gCRd03PchwkchI_-RKDJWgcGWFPq3byaaoKTP07FbKtjky4gMelbidxEFedPS5ZUUjD4Ldhz6fNCPzk_Vpxq2pd-vVKKGYNoxUoywsX0NMvX-HXa6Zi2juuLnvXs4nRvslo6MjDuw0HJj5u2BynH-axUBPi25IZ2BX81M5q5AylxrUYDaHPa39Rexc4hKstixYU.Ro5TBKro8utaumXai3Hi25viVjq-W2Vkbk0pdQab_rs&dib_tag=se&keywords=duct+tape&qid=1735455471&sprefix=duct+tap%2Caps%2C75&sr=8-4 
